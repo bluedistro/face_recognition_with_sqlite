@@ -15,7 +15,7 @@ Just make sure that all requirements and dependencies are correctly installed
 
 ## Setup
 
-Will be updated soon.
+Will be updated soon., however, you can leave all comments on my youtube page. Link is provided below
 
 
 ## Versioning
@@ -24,11 +24,11 @@ I use [SemVer](http://semver.org/) for versioning. For the versions available, s
 
 ## Author
 
-* **Kingsley Biney** - *Youtube link* - [](https://www.youtube.com/channel/UCoGXUTj0lBYKSOtH1YiT2gQ)
+* **Kingsley Biney** - *Youtube link* - [My Youtube link](https://www.youtube.com/channel/UCoGXUTj0lBYKSOtH1YiT2gQ)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgement
-* **Codacus** - *Initial work* - [The Codacus](http://thecodacus.com)
+* **Codacus** - *Website* - [The Codacus](http://thecodacus.com)
